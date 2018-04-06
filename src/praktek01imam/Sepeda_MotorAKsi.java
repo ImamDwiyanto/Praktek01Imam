@@ -18,5 +18,7 @@ public class Sepeda_MotorAKsi {
         Bapak.CC="150cc";
         Bapak.Velg="Bintang";
         Bapak.Ban="Tubles";
+        
+        Bapak.cetakInfo();
     }
 }
