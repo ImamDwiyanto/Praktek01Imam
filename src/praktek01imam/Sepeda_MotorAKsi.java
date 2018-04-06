@@ -10,5 +10,7 @@ package praktek01imam;
  * @author ACER-PC
  */
 public class Sepeda_MotorAKsi {
-    
+    public static void main(String[] args) {
+        Sepeda_Motor Bapak = new Sepeda_Motor();
+    }
 }
